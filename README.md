@@ -1,3 +1,7 @@
+/ Müşteri İlişkileri Yönetimi Uygulamasında öncelikle Ad Soyad ve İletişim Bilgileri alınır - Tel. veya E-posta Zorunlu- ve Müşteri Eklenir. Ardından Satış Numarası ve Satılan Ürünler de alınır ve Satışa Eklenir. Son olarak da Talep oluşturulur.
+
+** Uygulama Ana Ekranı
+
 ![Ekran görüntüsü 2024-05-06 155553](https://github.com/muratgull07/Musteri-Iliskileri-Sistemi/assets/148050387/9d876be0-6bf3-441b-922c-21bf8c302de7)
 
 
